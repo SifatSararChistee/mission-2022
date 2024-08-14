@@ -213,3 +213,33 @@ body{
     left:-5%;
     z-index: -1;
 }
+
+/* *footer section */
+
+.footer{
+    width: 100%;
+    background: rgb(11, 13, 23);;
+}
+
+.footer-content{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footer-content h1{
+    color: rgb(255, 255, 255);
+    font-family: Yeseva One;
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.footer-content p{
+    color: rgb(217, 219, 225);
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
