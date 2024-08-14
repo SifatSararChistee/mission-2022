@@ -176,3 +176,19 @@ body{
 .develop-left img{
     width: 80%;
 }
+
+.community-container{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1400px;
+    margin-top: 80px;
+    flex-direction: row-reverse;
+}
+
+.sp-img2{
+    width: 45%;
+    position: absolute;
+    right: -5%;
+    bottom: -15%;
+    z-index: -1;
+}
